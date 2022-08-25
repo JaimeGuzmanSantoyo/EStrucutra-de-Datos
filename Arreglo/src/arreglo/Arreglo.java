@@ -30,11 +30,11 @@ public class Arreglo {
             try {
                 opcion = Integer.parseInt(JOptionPane.showInputDialog(null, 
                         "MENU DE OPCIONES PARA LOS ARREGLOS\n\n"
-                                + "1. ESCRIBIR LOS DATOS DE LOS ALUMNOS\n "
+                                + "1. ESCRIBIR LOS DATOS DE LOS ALUMNOS COON SU RESPECTIVO NUMERO DE CUENTA \n "
                                 + "2. mostrar la posicion \n"
                                 + "3. establecer una nueva posicion para el nuevo alumno \n"
                                 + "4. limpiar\n"
-                                + "\n"
+                         
                                 + "5 salir \n\n "));
                                 
             
