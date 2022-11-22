@@ -53,7 +53,7 @@ public class Menu {
                         break;
                          case 4:
                         if(!pilas.estaVacia()){
-                            JOptionPane.showMessageDialog(null, "el ultimo valor es "+ pilas.MostrarBase());
+                            JOptionPane.showMessageDialog(null, "el ultimo valor es "+ pilas.MostrarTope());
                             
                         }else{
                             JOptionPane.showMessageDialog(null, "esta vacia la pila,no hay nada que mostrar");

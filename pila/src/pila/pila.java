@@ -41,7 +41,7 @@ public class pila{
         tamanio--;
         return  auxiliar;
     }
-    public int MostrarBase(){
+    public int MostrarTope(){
     return Ultimo.informacion;
     }
     public int ConocerTamanio(){
